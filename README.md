@@ -1,8 +1,5 @@
-[![Build](https://github.com/MoveAngel/One4uBot/workflows/FailedChecker/badge.svg?branch=sql-extended)](https://github.com/MoveAngel/One4uBot/actions "Build")
-
-# One4uBot userbot project
-
-![logo](https://telegra.ph/file/6935648afa7edc00f1611.jpg)
+# UBot project
+[![Build](https://github.com/Deadpool61/Ubot/workflows/FailedChecker/badge.svg?branch=sql-extended)](https://github.com/Deadpool61/Ubot/actions "Build")
 
 ```
 #include <std/disclaimer.h>
@@ -26,13 +23,7 @@ The easiest way to deploy this great bot! is click on button below
 Make sure you have an account of heroku and follow all the steps required.
 
 Deploy to Heroku:
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/MoveAngel/One4uBot/tree/sql-extended"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
-
-## Groups and support
-
-if you want new features, or announcements, you can follow our [UserbotIndo Channel](https://t.me/userbotindocloud).
-
-For discussion, bug reporting, and help, you can join [Userbotindo Support Group](https://t.me/userbotindo).
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/Deadpool61/Ubot/tree/sql-extended"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 ## Credits
 
@@ -43,7 +34,7 @@ Thanks for all :
 * [AdekMaulana](https://github.com/adekmaulana) - ProjectBish
 * [Mr.Miss](https://github.com/keselekpermen69) - Userbutt
 * [Mkaraniya](https://github.com/mkaraniya) - OpenUserBot
-* [DevPatel](https://github.com/Devp73) - OpenUserBot
+* [DevPatel](https://github.com/Devp73) - UserBot1
 
 and many more people who aren't mentioned here, but may be found in [Contributors](https://github.com/MoveAngel/One4uBot/graphs/contributors).
 

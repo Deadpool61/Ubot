@@ -35,9 +35,10 @@ Thanks for all :
 * [Mr.Miss](https://github.com/keselekpermen69) - Userbutt
 * [Mkaraniya](https://github.com/mkaraniya) - OpenUserBot
 * [DevPatel](https://github.com/Devp73) - UserBot1
+* [MoveAngel](https://github.com/MoveAngel) - One4Ubot
 
-and many more people who aren't mentioned here, but may be found in [Contributors](https://github.com/MoveAngel/One4uBot/graphs/contributors).
+and many more people who aren't mentioned here, but may be found in [Contributors](https://github.com/Deadpool61/Ubot/graphs/contributors).
 
 ## License
 
-This userbot licensed on [Raphielscape Public License](https://github.com/MoveAngel/One4uBot/blob/sql-extended/LICENSE) - Version 1.d, February 2020
+This userbot licensed on [Raphielscape Public License](https://github.com/Deadpool61/Ubot/blob/sql-extended/LICENSE) - Version 1.d, February 2020

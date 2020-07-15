@@ -212,6 +212,7 @@ async def check_botlog_chatid():
         LOGS.info(
             "Your account doesn't have rights to send messages to BOTLOG_CHATID "
             "group. Check if you typed the Chat ID correctly."
+         )
         quit(1)
 
 
@@ -222,6 +223,7 @@ with bot:
         LOGS.info(
             "BOTLOG_CHATID environment variable isn't a "
             "valid entity. Check your environment variables/config.env file."
+        )
         quit(1)
 
 # Global Variables
